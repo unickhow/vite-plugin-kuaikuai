@@ -1,6 +1,6 @@
 {
   "name": "@unickhow/vite-plugin-kuaikuai",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "license": "MIT",
   "type": "module",
   "main": "./dist/vite-plugin-kuaikuai.umd.js",

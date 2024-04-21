@@ -49,6 +49,11 @@ interface PluginOptions {
 }
 ```
 
+## Demo
+
+<img width="1090" alt="截圖 2024-04-21 晚上11 35 18" src="https://github.com/unickhow/vite-plugin-kuaikuai/assets/22793771/770dc0ef-5814-4bd7-aa8f-69c48536d918">
+
+
 > "It's better to believe it exists than to believe it doesn't exist."
 
 > "All is well."
