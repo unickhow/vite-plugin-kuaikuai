@@ -1,0 +1,39 @@
+{
+  "name": "@unickhow/vite-plugin-kuaikuai",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/vite-plugin-kuaikuai.umd.js",
+  "module": "./dist/vite-plugin-kuaikuai.js",
+  "exports": {
+    ".": {
+      "import": "./dist/vite-plugin-kuaikuai.js",
+      "require": "./dist/vite-plugin-kuaikuai.umd.js"
+    }
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "picocolors": "^1.0.0",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0"
+  },
+  "author": "unickhow <unick.zhow@gmail.com>",
+  "description": "kuai bless you",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unickhow/vite-plugin-kuaikuai.git"
+  },
+  "keywords": [
+    "sorcery",
+    "talisman"
+  ],
+  "bugs": {
+    "url": "https://github.com/unickhow/vite-plugin-kuaikuai/issues"
+  },
+  "homepage": "https://github.com/unickhow/vite-plugin-kuaikuai#readme"
+}
